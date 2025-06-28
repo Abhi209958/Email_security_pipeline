@@ -79,4 +79,3 @@ docker exec -it temporal tctl --address temporal:7233 workflow terminate \
 
 ---
 
-✅ You now have a **clean, working README** for your `email_security_pipeline` with MySQL table initialization, Temporal workflow management, and clear testing instructions.
