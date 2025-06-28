@@ -1,0 +1,84 @@
+# .gitignore
+
+```
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MySQL data dumps
+*.sql
+*.sql.gz
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
+
+# Docker
+*.pid
+
+# Logs
+*.log
+
+# Local env files
+.env.*
+
+# IDE
+.idea/
+
+# Node
+node_modules/
+
+# Temporal auto-generated state
+.temporal/
+
+# Python history
+.python_history
+
+# System files
+Thumbs.db
+desktop.ini
+```
