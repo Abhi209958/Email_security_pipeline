@@ -47,9 +47,7 @@ coverage.xml
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# MySQL data dumps
-*.sql
-*.sql.gz
+
 
 # VSCode
 .vscode/
