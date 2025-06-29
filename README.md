@@ -5,7 +5,7 @@
 ### 1️⃣ Clone Repository and Install Dependencies
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Abhi209958/Email_security_pipeline.git
 cd email_security_pipeline
 python -m venv venv
 source venv/bin/activate
